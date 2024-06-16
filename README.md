@@ -19,26 +19,26 @@ This is a WhatsApp-like chat application built using the MERN stack (MongoDB, Ex
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clonehttps://github.com/usama739/whatsapp-clone.git
+    cd whatsapp-clone
     ```
 
 2. **Install server dependencies**:
     ```bash
-    cd backend
+    cd whatsapp-backend
     npm install
     ```
 
 3. **Install client dependencies**:
     ```bash
-    cd ../frontend
+    cd ../whatsapp-mern
     npm install
     ```
 
 ## Setup
 
 1. **Backend Configuration**:
-   - Create a `.env` file in the `backend` directory and add the following environment variables:
+   - Create a `.env` file in the `whatsapp-backend` directory and add the following environment variables:
      ```env
      MONGO_URI=your_mongodb_connection_string
      PORT=your_server_port
@@ -49,7 +49,7 @@ This is a WhatsApp-like chat application built using the MERN stack (MongoDB, Ex
      ```
 
 2. **Frontend Configuration**:
-   - Create a `.env` file in the `frontend` directory and add the following environment variables:
+   - Create a `.env` file in the `whatsapp-mern` directory and add the following environment variables:
      ```env
      REACT_APP_PUSHER_KEY=your_pusher_key
      REACT_APP_PUSHER_CLUSTER=your_pusher_cluster
@@ -59,13 +59,13 @@ This is a WhatsApp-like chat application built using the MERN stack (MongoDB, Ex
 
 1. **Start the backend server**:
     ```bash
-    cd backend
-    npm start
+    cd whatsapp-backend
+    nodemon server.js
     ```
 
 2. **Start the frontend server**:
     ```bash
-    cd ../frontend
+    cd ../whatsapp-mern
     npm start
     ```
 
