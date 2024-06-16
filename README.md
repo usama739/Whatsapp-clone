@@ -6,13 +6,7 @@
 
 This is a WhatsApp-like chat application built using the MERN stack (MongoDB, Express.js, React, Node.js) with real-time messaging functionality powered by Pusher.
 
-## Features
 
-- Real-time messaging
-- User authentication
-- Responsive UI
-- Message timestamps
-- Separate chat windows for different users
 
 ## Technologies Used
 
