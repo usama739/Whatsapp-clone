@@ -19,7 +19,7 @@ This is a WhatsApp-like chat application built using the MERN stack (MongoDB, Ex
 
 1. **Clone the repository**:
     ```bash
-    git clonehttps://github.com/usama739/whatsapp-clone.git
+    git clone https://github.com/usama739/whatsapp-clone.git
     cd whatsapp-clone
     ```
 
