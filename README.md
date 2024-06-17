@@ -4,7 +4,7 @@
 ![Whatsapp UI](https://github.com/usama739/whatsapp-clone/assets/89732076/93d2babd-5464-45ec-9689-07a9a9f3f3cf)
 
 
-This is a WhatsApp-like chat application built using the MERN stack (MongoDB, Express.js, React, Node.js) with real-time messaging functionality powered by Pusher.
+This project is a WhatsApp clone built with the MERN stack. It includes a basic messaging feature where users can send and receive messages in real-time. The frontend is updated instantly upon receiving a new message using Pusher for real-time communication.
 
 
 
